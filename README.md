@@ -1,2 +1,3 @@
 # MNIST_model
-This model used for handwritten digit recognition.
+Only used numpy and pandas to build this model.
+Used for handwritten digit recognition.
