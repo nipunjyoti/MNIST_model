@@ -1,5 +1,5 @@
 # MNIST_model
-Only Numpy and Pandas are used to build the model. Trained for handwritten digit recognition.  
+Numpy and Pandas are used to build the model. Trained for handwritten digit recognition. I did everything from scratch, so the model may not be perfect and it can give some weird output when noise introduced.  
 
 With this model I am able to get an accuracy of 90% in the test dataset.
 
